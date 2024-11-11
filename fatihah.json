@@ -1,7 +1,7 @@
 [
   {
     "url": "https://server9.mp3quran.net/nabil/001.mp3",
-    "name": "Surah Al-Fatihah",
+    "name": "001. Surah Al-Fatihah",
     "lyrics": [
       {
         "text": "بِسْمِ اللّٰه الرَّحْمٰنِ الرَّحِيْمِ١",
@@ -52,7 +52,7 @@
   },
   {
     "url": "https://server9.mp3quran.net/nabil/002.mp3",
-    "name": "Surah Al-Baqarah",
+    "name": "002. Surah Al-Baqarah",
     "lyrics": [
       {
         "text": "بِسْمِ اللّٰه الرَّحْمٰنِ الرَّحِيْمِ",
